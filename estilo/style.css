@@ -1,0 +1,102 @@
+body {
+    background-color: steelblue;
+}
+
+section {
+    background-color: steelblue;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#menu {
+    background-color: rgb(247, 0, 0);
+    border-radius: 20px;
+    border: darkred solid;
+}
+
+h3 {
+    text-align: center;
+    border-style: solid;
+    border-color: aqua;
+    margin: 18px 110px 0px 110px;
+    border-radius: 7.5px;
+}
+
+div {
+    display: inline-block;
+    width: 290pt;
+    height: 150pt;
+    background-color: rgb(251, 255, 0);
+    border-radius: 15px;
+    border: aqua solid;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+a img {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    padding: 0% 23%;
+}
+
+.bot {
+    height: 20px;
+    width: 20x;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    background-color: steelblue;
+    color: white;
+    border: rgb(3, 64, 114) solid;
+    border-radius: 15px;
+}
+
+div p {
+    margin-top: 5px;
+    margin-bottom: 11px;
+}
+
+main {
+    margin-left: 25px;
+}
+
+section button {
+    margin: 6px 0px;
+    width: 47%;
+    margin-left: 26px;
+    border: grey solid;
+    border-radius: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td,
+tr {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+#tot {
+    text-align: center;
+}

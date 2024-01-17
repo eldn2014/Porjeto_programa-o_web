@@ -1,0 +1,11 @@
+{
+    "pratos": [
+        { "id": 1, "restaurante": "Ragazzo", "produt": "Combo 12 coxinhas", "valor": 21.89 },
+        { "id": 2, "restaurante": "Subway", "produt": "Pizza de calabresa", "valor": 24.95 },
+        { "id": 3, "restaurante": "McDonalds", "produt": "Mac picanha club house", "valor": 25.99 },
+        { "id": 4, "restaurante": "Burger King", "produt": "Balde de ovomaltine", "valor": 12.99 },
+        { "id": 5, "restaurante": "Açai", "produt": "Açai 500 ml", "valor": 18.65 },
+        { "id": 6, "restaurante": "Bubblekill", "produt": "Moranguete 500ml", "valor": 15.99 }
+
+    ]
+}
